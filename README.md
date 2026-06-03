@@ -89,8 +89,9 @@ Provides a high-level summary of business performance.
 * Monthly Sales & Profit Trend
 * Sales Distribution by Customer Segment
 * Regional Sales Performance
+<img width="1352" height="736" alt="Executive_Overview" src="https://github.com/user-attachments/assets/7d7a58a0-ee47-4fe6-ac2c-2116e6a66519" />
 
-[Executive Overview](Dashboard Screenshots/Executive_Overview.png)
+
 
 ---
 
@@ -106,7 +107,8 @@ Focuses on category, product, and geographic performance.
 * Top Products by Sales
 * Profitability by Product Sub-Category
 
-[Product & Regional Analysis](Dashboard Screenshots/Product_Regional_Analysis.png)
+<img width="1337" height="727" alt="Product_Regional_Analysis" src="https://github.com/user-attachments/assets/da31afc8-6e82-4630-802c-38926cc197f9" />
+
 
 ---
 
@@ -125,8 +127,8 @@ Provides insights into customer purchasing behavior and profitability.
 * Customer Sales & Profit Summary
 * Top Customers by Profit
 * Monthly Customer Activity
+<img width="1347" height="747" alt="Customer_Insights" src="https://github.com/user-attachments/assets/941215eb-52c3-4eab-9b6a-fcffeb797b1a" />
 
-[Customer Insights](Dashboard Screenshots/Customer_Insights.png)
 
 ---
 
@@ -176,8 +178,8 @@ Provides insights into customer purchasing behavior and profitability.
 
 ## Sales Performance
 
-* Generated over **$2.29M** in total sales across four years.
-* Processed approximately **4,900+ orders**.
+* Generated over **$2.30M** in total sales across four years.
+* Processed approximately **5000 orders**.
 * Served **793 unique customers**.
 * Sales showed consistent growth from 2014 to 2017.
 
@@ -318,9 +320,9 @@ DIVIDE(
 
 ## Author
 
-**[Renuga J]**
+**Renuga J**
 
-LinkedIn: [https://www.linkedin.com/in/renuga-j/]
+LinkedIn: https://www.linkedin.com/in/renuga-j/
 
-GitHub: [https://github.com/Renuga-J]
+GitHub: https://github.com/Renuga-J
 
