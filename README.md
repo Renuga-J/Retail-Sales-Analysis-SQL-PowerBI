@@ -90,7 +90,7 @@ Provides a high-level summary of business performance.
 * Sales Distribution by Customer Segment
 * Regional Sales Performance
 
-![Executive Overview](Dashboard Screenshots/Executive_Overview.png)
+[Executive Overview](Dashboard Screenshots/Executive_Overview.png)
 
 ---
 
@@ -106,7 +106,7 @@ Focuses on category, product, and geographic performance.
 * Top Products by Sales
 * Profitability by Product Sub-Category
 
-![Product & Regional Analysis](Dashboard Screenshots/Product_Regional_Analysis.png)
+[Product & Regional Analysis](Dashboard Screenshots/Product_Regional_Analysis.png)
 
 ---
 
@@ -126,7 +126,7 @@ Provides insights into customer purchasing behavior and profitability.
 * Top Customers by Profit
 * Monthly Customer Activity
 
-![Customer Insights](Dashboard Screenshots/Customer_Insights.png)
+[Customer Insights](Dashboard Screenshots/Customer_Insights.png)
 
 ---
 
