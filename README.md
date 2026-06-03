@@ -16,6 +16,13 @@ The objective was to transform raw transactional data into actionable business i
 * Excel
 
 ---
+## Project Highlights
+
+- Analyzed $2.30 M+ in retail sales data
+- Built 3-page Power BI dashboard
+- Created SQL-based profitability and customer analyses
+- Identified loss-making products and discount-related profit leakage
+- Developed DAX measures for KPI reporting
 
 ## Project Workflow
 
