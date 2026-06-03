@@ -1,4 +1,6 @@
-# Key Business Insights
+# Retail Sales Analysis – Key Insights & Recommendations
+
+This document summarizes the major business findings identified through SQL analysis and Power BI dashboard development.
 
 ## Executive Summary
 
@@ -75,8 +77,9 @@ Implement discount thresholds and monitor promotions to prevent excessive profit
 Several products generated substantial losses despite strong sales volumes:
 
 - Cubify CubeX 3D Printer Double Head Print
+- Lexmark MX611dhe Monochrome Laser Printer
 - Cubify CubeX 3D Printer Triple Head Print
-- Epson TM-T88V Direct Thermal Printer
+
 
 ### Recommendation
 
