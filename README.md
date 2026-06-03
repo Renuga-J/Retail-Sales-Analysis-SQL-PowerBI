@@ -222,8 +222,9 @@ Excessive discounting should be carefully monitored, as high discount levels con
 Several products generated significant losses despite substantial sales volumes, including:
 
 * Cubify CubeX 3D Printer Double Head Print
-* Cubify CubeX 3D Printer Triple Head Print
 * Lexmark MX611dhe Monochrome Laser Printer
+* Cubify CubeX 3D Printer Triple Head Print
+
 
 ### Business Recommendation
 
